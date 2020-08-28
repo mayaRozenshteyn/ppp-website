@@ -6,7 +6,7 @@
   <form class="needs-validation form col-9 col-md-7 col-lg-5" novalidate action="/contactform" method="POST">
     <div class="form-group row">
       <label>First & Last Name<sup>*</sup></label>
-      <input type="text" name="name" class="form-control contact-us-input" placeholder="Mark Frerichs" required />
+      <input type="text" name="name" class="form-control contact-us-input" placeholder="Jane Goodall" required />
       <div class="invalid-feedback">
         Please provide your name.
       </div>
@@ -33,7 +33,8 @@
       </div>
     </div>
     <div class="form-group row" id="subject-other">
-      <textarea class="form-control contact-us-input" name="subjectOther" rows="1" placeholder="please specify here..."></textarea>
+      <textarea class="form-control contact-us-input" name="subjectOther" rows="1"
+        placeholder="please specify here..."></textarea>
       <div class="invalid-feedback">
         Please type your message in the box above.
       </div>
@@ -46,7 +47,6 @@
         <option>Search engine (Google, Yahoo, etc.)</option>
         <option>Recommended by friend/colleague</option>
         <option>Social Media (Instagram, Facebook, etc.)</option>
-        <option>I have a Gal Gadot Fetish >:)</option>
         <option value="Other">Other</option>
       </select>
       <div class="invalid-feedback">
@@ -54,7 +54,8 @@
       </div>
     </div>
     <div class="form-group row" id="referral-other">
-      <textarea class="form-control contact-us-input" name="referralOther" rows="1" placeholder="please specify here..."></textarea>
+      <textarea class="form-control contact-us-input" name="referralOther" rows="1"
+        placeholder="please specify here..."></textarea>
       <div class="invalid-feedback">
         Please type your message in the box above.
       </div>
@@ -97,18 +98,18 @@
   function otherHandler(val, id) {
     if (val === 'Other') {
       if (id === 'subject') {
-        $('#subject-other').css({ "display": "block"});
+        $('#subject-other').css({ "display": "block" });
       }
       else {
-        $('#referral-other').css({ "display": "block"});
+        $('#referral-other').css({ "display": "block" });
       }
     }
     else {
       if (id === 'subject') {
-        $('#subject-other').css({ "display": "none"});
+        $('#subject-other').css({ "display": "none" });
       }
       else {
-        $('#referral-other').css({ "display": "none"});
+        $('#referral-other').css({ "display": "none" });
       }
     }
   }
