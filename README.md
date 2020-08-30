@@ -1,6 +1,6 @@
 # Plant Powered Plates Website
-See the running website at https://www.plantpoweredplates.media!
-*This repository contains code for the Plant-Powered Plates website.*
+### See the running website at https://www.plantpoweredplates.media!   
+*This repository contains code for the Plant-Powered Plates website.*   
 Plant-Powered Plates (PPP) aims to inspire kids to combat climate change through sustainable food choices.   
 Using kid-friendly and engaging videos, handouts, and activities, we hope to motivate children to create positive environmental change through their everyday eating habits.
 
