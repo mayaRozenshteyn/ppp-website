@@ -1,7 +1,8 @@
-# ppp-website
+# Plant Powered Plates Website
 See the running website at https://www.plantpoweredplates.media!
-
-This repository contains code for the Plant-Powered Plates website.
+*This repository contains code for the Plant-Powered Plates website.*
+Plant-Powered Plates (PPP) aims to inspire kids to combat climate change through sustainable food choices.   
+Using kid-friendly and engaging videos, handouts, and activities, we hope to motivate children to create positive environmental change through their everyday eating habits.
 
 # Creators
 Maya Rozenshteyn [(mayaRozenshteyn)](https://github.com/mayaRozenshteyn)
@@ -16,7 +17,7 @@ Nhi Nguyen [(nhilikeknee)](https://github.com/nhilikeknee)
 * Node.js
 * jQuery
 
- ## Packages
+ ## Packages (npm)
  * express
  * nodemailer
  * body-parser
