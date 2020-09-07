@@ -8,7 +8,7 @@ Using kid-friendly and engaging videos, handouts, and activities, we hope to mot
 
 
 [<img src="https://www.plantpoweredplates.media/images/profile_maya.png" width="200">](https://github.com/mayaRozenshteyn)  [<img src="https://www.plantpoweredplates.media/images/profile_nhi.png" width="200">](https://github.com/nhilikeknee)     
-### &nbsp;&nbsp;&nbsp;&nbsp;[Maya Rozenshteyn](https://github.com/mayaRozenshteyn) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Nhi Nguyen](https://github.com/nhilikeknee)
+### &nbsp;&nbsp;&nbsp;&nbsp;[Maya Rozenshteyn](https://github.com/mayaRozenshteyn) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Nhi Nguyen](https://github.com/nhilikeknee)
 
 
 # Languages & Tools
@@ -22,10 +22,15 @@ Using kid-friendly and engaging videos, handouts, and activities, we hope to mot
 
 
  ## Packages (npm)
- #### [express](https://expressjs.com/en/starter/installing.html)
- #### [nodemailer](https://www.npmjs.com/package/nodemailer)
- #### [body-parser](https://www.npmjs.com/package/body-parser)
- #### [ejs](https://www.npmjs.com/package/ejs)
- #### [express-sslify](https://www.npmjs.com/package/express-sslify)
- #### [express-session](https://www.npmjs.com/package/express-session)
+  [express](https://expressjs.com/en/starter/installing.html)
+   
+   [nodemailer](https://www.npmjs.com/package/nodemailer)
+   
+   [body-parser](https://www.npmjs.com/package/body-parser)
+ 
+ [ejs](https://www.npmjs.com/package/ejs)
+
+[express-sslify](https://www.npmjs.com/package/express-sslify)
+
+[express-session](https://www.npmjs.com/package/express-session)
  
