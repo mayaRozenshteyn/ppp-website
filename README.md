@@ -5,8 +5,11 @@ Plant-Powered Plates (PPP) aims to inspire kids to combat climate change through
 Using kid-friendly and engaging videos, handouts, and activities, we hope to motivate children to create positive environmental change through their everyday eating habits.
 
 # Creators
-Maya Rozenshteyn [(mayaRozenshteyn)](https://github.com/mayaRozenshteyn)   
-Nhi Nguyen [(nhilikeknee)](https://github.com/nhilikeknee)
+
+
+[<img src="https://www.plantpoweredplates.media/images/profile_maya.png" width="200">](https://github.com/mayaRozenshteyn)  [<img src="https://www.plantpoweredplates.media/images/profile_nhi.png" width="200">](https://github.com/nhilikeknee)     
+### &nbsp;&nbsp;&nbsp;&nbsp;[Maya Rozenshteyn](https://github.com/mayaRozenshteyn) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Nhi Nguyen](https://github.com/nhilikeknee)
+
 
 # Technologies
 * HTML
@@ -16,6 +19,7 @@ Nhi Nguyen [(nhilikeknee)](https://github.com/nhilikeknee)
 
 * Node.js
 * jQuery
+
 
  ## Packages (npm)
  * express
