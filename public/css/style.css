@@ -1,5 +1,20 @@
 html {
   font-size: 1rem;
+  letter-spacing: -0.055em;
+
+}
+p{  
+  letter-spacing: -0.05em;
+  line-height: 1.2rem;
+}
+#nhi-bio, #maya-bio, #amanda-bio {
+    line-height: 1rem;
+
+}
+
+h5 { /*copyright text*/
+    letter-spacing: normal;
+
 }
 
 /*small screen*/
@@ -133,7 +148,7 @@ main h3 {
 main p {
   margin-left: 5%;
   width: 50%;
-  font-size: 1rem;
+  font-size: .8rem;
   color: #184D47;
 }
 
@@ -293,6 +308,7 @@ footer a {
 .rc-entry-desc {
   font-size: 0.6rem;
   margin-bottom: 0px;
+  line-height: .9rem;
 }
 
 .rc-entry-tags {
@@ -308,9 +324,9 @@ footer a {
 @media screen and (min-width: 992px) {
   /*prevents tag from misaligning with text on Resources page*/
   .rc-entry-tags {
-    padding-left: 1px;
-    padding-right: 1px;
-    margin-right: 1rem;
+    padding-left: .005rem;
+    padding-right: .005rem;
+    margin-right: .5rem;
   }
 }
 
