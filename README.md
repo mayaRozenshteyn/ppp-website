@@ -4,9 +4,9 @@
 *This repository contains code for the Plant-Powered Plates website.*  
 <strong>Plant-Powered Plates (PPP)</strong> aims to inspire kids to combat climate change through sustainable food choices. Using kid-friendly and engaging videos, handouts, and activities, we hope to motivate children to create positive environmental change through their everyday eating habits.
 
-[<img src="https://github.com/mayaRozenshteyn/ppp-website/blob/master/public/images/landingpage.gif" width="300">](https://www.plantpoweredplates.media)
-[<img src="https://github.com/mayaRozenshteyn/ppp-website/blob/master/public/images/aboutus.gif" width="300">](https://www.plantpoweredplates.media)
-[<img src="https://github.com/mayaRozenshteyn/ppp-website/blob/master/public/images/resources.gif" width="300">](https://www.plantpoweredplates.media)
+[<img src="https://github.com/mayaRozenshteyn/ppp-website/blob/master/public/images/landingpage.gif" width="250">](https://www.plantpoweredplates.media)
+[<img src="https://github.com/mayaRozenshteyn/ppp-website/blob/master/public/images/aboutus.gif" width="250">](https://www.plantpoweredplates.media)
+[<img src="https://github.com/mayaRozenshteyn/ppp-website/blob/master/public/images/resources.gif" width="250">](https://www.plantpoweredplates.media)
 # Creators
 
 
