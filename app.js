@@ -47,6 +47,7 @@ app.post("/contactform", function (req, res) {
 	async function main() {
 		let transporter = nodemailer.createTransport({
 			host: 'smtp.gmail.com',
+			service: 'Gmail',
 			port: 587,
 			secure: false,
 			auth: {
