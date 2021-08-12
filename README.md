@@ -1,5 +1,5 @@
 
-# [Plant-Powered Plates Website](https://www.plantpoweredplates.media)
+# [Plant-Powered Plates Website](https://plantpoweredplates.herokuapp.com/)
 ## See the running website at https://plantpoweredplates.herokuapp.com/!   
 *This repository contains code for the Plant-Powered Plates website.*  
 <strong>Plant-Powered Plates (PPP)</strong> aims to inspire kids to combat climate change through sustainable food choices. Using kid-friendly and engaging videos, handouts, and activities, we hope to motivate children to create positive environmental change through their everyday eating habits.
